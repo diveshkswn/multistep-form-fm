@@ -1,0 +1,8 @@
+{
+  "name": "@frontend-mentor-form/multi-step-form",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "multi-step-form"
+  }
+}
