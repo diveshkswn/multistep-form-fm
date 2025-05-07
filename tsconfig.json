@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/multi-step-form"
+    },
+    {
+      "path": "./libs/frontendMentor"
     }
   ]
 }

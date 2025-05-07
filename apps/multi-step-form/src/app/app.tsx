@@ -3,10 +3,11 @@
 import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
-
+import { FrontendMentor } from '@frontend-mentor-form/frontendMentor';
 export function App() {
   return (
     <div>
+      <FrontendMentor />
       <NxWelcome title="multi-step-form" />
 
       {/* START: routes */}
